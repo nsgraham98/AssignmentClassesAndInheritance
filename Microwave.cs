@@ -17,13 +17,20 @@ namespace OOP2AssignmentClassesAndInheritance
             this.roomType = roomType;
         }
 
+        public Microwave() { }
+
         public float Capacity { get => capacity; set => capacity = value; }
         public string RoomType { get => roomType; set => roomType = value; }
 
         public override string ToString()
         {
             //return base.ToString();
-            return $"Item Number: {ItemNumber}\nBrand: {Brand}\nQuantity: {Quantity}\nWattage: {Wattage}\nColor: {Color}\nPrice: {Price}\n";
+            return $"{ItemNumber};{Brand};{Quantity};{Wattage};{Color};{Price};{Capacity};{RoomType};";
+        }
+
+        public static string ToStringDetailed(Microwave mw)
+        {
+            return $"ItemNumber: {mw.ItemNumber}\nBrand: {mw.Brand}\nQuantity: {mw.Quantity}\nWattage: {mw.Wattage}\nColor: {mw.Color}\nPrice: {mw.Price}\nCapacity: {mw.Capacity}\nRoomType: {mw.RoomType}\n";
         }
     }
 }
