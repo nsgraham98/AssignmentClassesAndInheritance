@@ -17,6 +17,7 @@ namespace OOP2AssignmentClassesAndInheritance
             this.grade = grade;
             this.batteryVoltage = batteryVoltage;
         }
+        public Vacuum() { }
 
         public string Grade { get => grade; set => grade = value; }
         public int BatteryVoltage { get => batteryVoltage; set => batteryVoltage = value; }
@@ -24,7 +25,12 @@ namespace OOP2AssignmentClassesAndInheritance
         public override string ToString()
         {
             //return base.ToString();
-            return $"Item Number: {ItemNumber}\nBrand: {Brand}\nQuantity: {Quantity}\nWattage: {Wattage}\nColor: {Color}\nPrice: {Price}\nGrade: {Grade}\nBattery Voltage: {BatteryVoltage}";
+            return $"{ItemNumber};{Brand};{Quantity};{Wattage};{Color};{Price};{Grade};{BatteryVoltage};";
+        }
+
+        public static string ToStringDetailed(Vacuum v)
+        {
+            return $"ItemNumber: {v.ItemNumber}\nBrand: {v.Brand}\nQuantity: {v.Quantity}\nWattage: {v.Wattage}\nColor: {v.Color}\nPrice: {v.Price}\nGrade: {v.Grade}\nBatteryVoltage: {v.BatteryVoltage}\n";
         }
     }
 }
