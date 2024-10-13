@@ -1,0 +1,7 @@
+C:\Users\DanTabletopPC\Downloads\AssignmentClassesAndInheritance-nick (1)\AssignmentClassesAndInheritance-nick\obj\Debug\AssignmentClassesAndInheritance.csproj.AssemblyReference.cache
+C:\Users\DanTabletopPC\Downloads\AssignmentClassesAndInheritance-nick (1)\AssignmentClassesAndInheritance-nick\obj\Debug\AssignmentClassesAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\DanTabletopPC\Downloads\AssignmentClassesAndInheritance-nick (1)\AssignmentClassesAndInheritance-nick\bin\Debug\AssignmentClassesAndInheritance.exe.config
+C:\Users\DanTabletopPC\Downloads\AssignmentClassesAndInheritance-nick (1)\AssignmentClassesAndInheritance-nick\bin\Debug\AssignmentClassesAndInheritance.exe
+C:\Users\DanTabletopPC\Downloads\AssignmentClassesAndInheritance-nick (1)\AssignmentClassesAndInheritance-nick\bin\Debug\AssignmentClassesAndInheritance.pdb
+C:\Users\DanTabletopPC\Downloads\AssignmentClassesAndInheritance-nick (1)\AssignmentClassesAndInheritance-nick\obj\Debug\AssignmentClassesAndInheritance.exe
+C:\Users\DanTabletopPC\Downloads\AssignmentClassesAndInheritance-nick (1)\AssignmentClassesAndInheritance-nick\obj\Debug\AssignmentClassesAndInheritance.pdb
