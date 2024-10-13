@@ -1,0 +1,7 @@
+C:\CRPG211-OOP2\Sven Assignment 1\bin\Debug\Sven Assignment 1.exe.config
+C:\CRPG211-OOP2\Sven Assignment 1\bin\Debug\Sven Assignment 1.exe
+C:\CRPG211-OOP2\Sven Assignment 1\bin\Debug\Sven Assignment 1.pdb
+C:\CRPG211-OOP2\Sven Assignment 1\obj\Debug\Sven Assignment 1.csproj.AssemblyReference.cache
+C:\CRPG211-OOP2\Sven Assignment 1\obj\Debug\Sven Assignment 1.csproj.CoreCompileInputs.cache
+C:\CRPG211-OOP2\Sven Assignment 1\obj\Debug\Sven Assignment 1.exe
+C:\CRPG211-OOP2\Sven Assignment 1\obj\Debug\Sven Assignment 1.pdb
